@@ -5,6 +5,4 @@ def reverse_each_word(string)
     new_array << word.reverse
   end
   new_string = new_array.join(" ")
-  
-  
-end
+ end
